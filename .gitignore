@@ -6,7 +6,8 @@
 /public/storage
 /public/images
 /database
-/resource
+/resources
+/routes
 /storage
 /vendor
 /.ssh
