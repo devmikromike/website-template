@@ -7,7 +7,6 @@
 /public/images
 /storage
 /vendor
-/database
 /.ssh
 .env
 .env.backup
