@@ -6,6 +6,7 @@
 /public/storage
 /public/images
 /database
+/resource
 /storage
 /vendor
 /.ssh
@@ -23,3 +24,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+.gitignore
